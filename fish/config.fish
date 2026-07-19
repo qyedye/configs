@@ -1,8 +1,8 @@
 if status is-interactive
-    abbr ls "eza --group-directories-first --sort=name"
-    abbr ll "eza -lh --group-directories-first --sort=name"
-    abbr la "eza -lha --group-directories-first --sort=name"
-    abbr tree "lstr --dirs-first --dotfiles-first --natural-sort"
+    alias ls="eza --group-directories-first --sort=name"
+    alias ll="eza -lh --group-directories-first --sort=name"
+    alias la="eza -lha --group-directories-first --sort=name"
+    alias tree="lstr --dirs-first --dotfiles-first --natural-sort"
 end
 
 function fish_prompt
