@@ -3,6 +3,7 @@ if status is-interactive
     alias ll="eza -lh --group-directories-first --sort=name"
     alias la="eza -lha --group-directories-first --sort=name"
     alias tree="lstr --dirs-first --dotfiles-first --natural-sort"
+    alias cat="batcat"
 end
 
 function fish_prompt
