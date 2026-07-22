@@ -1,0 +1,17 @@
+theme = iceberg-dark
+
+font-size = 14
+font-family = JetBrains Mono
+font-thicken = true
+font-thicken-strength = 50
+
+# font-style = "Regular"
+# font-style-bold = "Regular"
+# font-style-bold-italic = "Italic"
+
+window-padding-x = 15
+window-padding-y = 10
+
+background-blur-radius = 15
+
+bold-is-bright = false
