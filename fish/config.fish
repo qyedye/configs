@@ -1,7 +1,7 @@
 if status is-interactive
-    alias ls="eza --group-directories-first --sort=name"
-    alias ll="eza -lh --group-directories-first --sort=name"
-    alias la="eza -lha --group-directories-first --sort=name"
+    alias ls="eza --group-directories-first --sort=Name"
+    alias ll="eza -lh --group-directories-first --sort=Name"
+    alias la="eza -lha --group-directories-first --sort=Name"
     alias tree="lstr --dirs-first --dotfiles-first --natural-sort"
     
     if type -q bat
