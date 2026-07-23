@@ -1,13 +1,13 @@
-theme = iceberg-dark
+theme = ayu-mirage
 
 font-size = 14
-font-family = JetBrains Mono
+font-family = Fira Code
 font-thicken = true
 font-thicken-strength = 50
 
-# font-style = "Regular"
-# font-style-bold = "Regular"
-# font-style-bold-italic = "Italic"
+font-style = "Regular"
+font-style-bold = "Medium"
+font-style-bold-italic = "Italic Medium"
 
 window-padding-x = 15
 window-padding-y = 10
